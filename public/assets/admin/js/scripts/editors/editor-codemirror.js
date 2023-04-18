@@ -110,7 +110,7 @@
 		autoCloseBrackets: true,
 		matchBrackets: true,
 		showCursorWhenSelecting: true,
-		theme: "monokai",
+
 		tabSize: 2
 	});
 
